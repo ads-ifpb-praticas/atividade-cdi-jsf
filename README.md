@@ -15,4 +15,4 @@ A atividade deve ser desenvolvida utilizando as tecnologias vistas em sala de au
 
 ## Data de Entrega
 
-A atividade deve ser submetida a um repositório na organização da disciplina no Github, com o nome "atividade-cdi-jsf-<nome>", onde <nome> deve ser o nome do aluno que desenvolveu a atividade. O prazo máximo é 10/10/2017.
+A atividade deve ser submetida a um repositório na organização da disciplina no Github, com o nome "atividade-cdi-jsf-(nome)", onde (nome) deve ser o nome do aluno que desenvolveu a atividade. O prazo máximo é 10/10/2017.
